@@ -2,6 +2,7 @@ name: lampinen
 favicon: null
 layout_spectrum: 0.94096
 typography_spectrum: 0.9120842742267996
+title: The Lampinen Organization
 cta:
   domain: null
   bucket: null
