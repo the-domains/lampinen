@@ -1,29 +1,41 @@
-name: lampinen
-favicon: null
-layout_spectrum: 0.94096
-typography_spectrum: 0.9120842742267996
 title: The Lampinen Organization
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3743287
+  brandStrength: 0.6364124
+  lightness: 0.25
+  brandColors:
+    - '#160C0A'
+    - '#B9C2D1'
+    - '#5E4A31'
+    - '#E3A143'
+    - '#E9F2FA'
+  rhythmicContrast: 0.3088077
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+favicon: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: lampinen
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#131218'
-    - '#96662a'
-    - '#c6b297'
-    - '#e6ad00'
-    - '#ece4cd'
-  brandStrength: 0.8756866769399494
-  lightness: 0.25
-  saturation: 0.6875
-  rhythmicContrast: 0.30761481053195894
-purpose: []
+typography_spectrum: 0.9120842742267996
+layout_spectrum: 0.94096
